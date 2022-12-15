@@ -29,12 +29,6 @@ I'm iOS Engineer 💻
 
 <br>
 
-<div align="center">
-
->[Imperare sibi maximum imperium est 📚](https://en.wikipedia.org/wiki/Seneca_the_Younger )
-
-  </div>
-
 <!--
 
 <div style="text-align:center">
